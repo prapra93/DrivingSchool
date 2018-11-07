@@ -1,0 +1,476 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-10-03 19:20+0000\n"
+"PO-Revision-Date: 2017-10-03 15:26-0400\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: Controller/FilesController.php:66
+msgid "File has been uploaded and inserted successfully."
+msgstr "ファイルがアップロードされ、正常に挿入されました。"
+
+#: Controller/FilesController.php:68;71
+msgid "Unable to upload file, please try again."
+msgstr "ファイルをアップロードできません。もう一度お試しください。"
+
+#: Controller/FilesController.php:74
+msgid "Please choose a file to upload."
+msgstr "アップロードするファイルを選択してください。"
+
+#: Controller/FilesController.php:98
+msgid "The file has been saved."
+msgstr "ファイルが保存されました。"
+
+#: Controller/FilesController.php:102
+msgid "The file could not be saved. Please, try again."
+msgstr "ファイルを保存できませんでした。もう一度やり直してください。"
+
+#: Controller/FilesController.php:121
+msgid "The file has been deleted."
+msgstr "ファイルが削除されました。"
+
+#: Controller/FilesController.php:123
+msgid "The file could not be deleted. Please, try again."
+msgstr "ファイルを削除できませんでした。もう一度やり直してください。"
+
+#: Controller/LessonsController.php:61;89
+msgid "The lesson has been saved."
+msgstr "レッスンは保存されました。"
+
+#: Controller/LessonsController.php:65;93
+msgid "The lesson could not be saved. Please, try again."
+msgstr "レッスンは保存できませんでした。もう一度やり直してください。"
+
+#: Controller/LessonsController.php:114
+msgid "The lesson has been deleted."
+msgstr "レッスンは削除されました。"
+
+#: Controller/LessonsController.php:116
+msgid "The lesson could not be deleted. Please, try again."
+msgstr "レッスンを削除できませんでした。もう一度やり直してください。"
+
+#: Controller/UsersController.php:68;91
+msgid "The user has been saved."
+msgstr "ユーザーは保存されました。"
+
+#: Controller/UsersController.php:71
+msgid "Unable to add the user."
+msgstr "ユーザーを追加できません。"
+
+#: Controller/UsersController.php:95
+msgid "The user could not be saved. Please, try again."
+msgstr "ユーザーを保存できませんでした。もう一度やり直してください。"
+
+#: Controller/UsersController.php:113
+msgid "The user has been deleted."
+msgstr "ユーザーは削除されました。"
+
+#: Controller/UsersController.php:115
+msgid "The user could not be deleted. Please, try again."
+msgstr "ユーザーは削除できませんでした。もう一度やり直してください。"
+
+#: Controller/UsersController.php:129
+msgid "Invalid username or password, try again"
+msgstr "ユーザー名またはパスワードが無効です。もう一度お試しください"
+
+#: Controller/VehiculesController.php:60;87
+msgid "The vehicule has been saved."
+msgstr "車両は救われました。"
+
+#: Controller/VehiculesController.php:64;91
+msgid "The vehicule could not be saved. Please, try again."
+msgstr "車両を救うことができませんでした。もう一度やり直してください。"
+
+#: Controller/VehiculesController.php:111
+msgid "The vehicule has been deleted."
+msgstr "車両が削除されました。"
+
+#: Controller/VehiculesController.php:113
+msgid "The vehicule could not be deleted. Please, try again."
+msgstr "車両を削除できませんでした。もう一度やり直してください。"
+
+#: Template/Element/head.ctp:7
+msgid "~VROOM~ Driving School"
+msgstr ""
+
+#: Template/Element/header.ctp:21
+msgid "Languages"
+msgstr "言語"
+
+#: Template/Files/add.ctp:8 Template/Files/edit.ctp:8
+#: Template/Files/index.ctp:10;35 Template/Files/view.ctp:9;58
+#: Template/Lessons/add.ctp:8 Template/Lessons/edit.ctp:8
+#: Template/Lessons/index.ctp:10;52 Template/Lessons/view.ctp:10;95
+#: Template/Users/add.ctp:8 Template/Users/edit.ctp:8
+#: Template/Users/index.ctp:10;39 Template/Users/view.ctp:9;71;105;138
+#: Template/Vehicules/add.ctp:8 Template/Vehicules/edit.ctp:8
+#: Template/Vehicules/index.ctp:10;37 Template/Vehicules/view.ctp:9;64
+msgid "Actions"
+msgstr "行動"
+
+#: Template/Files/add.ctp:9 Template/Files/edit.ctp:15
+#: Template/Files/view.ctp:12 Template/Lessons/add.ctp:12
+#: Template/Lessons/edit.ctp:18 Template/Lessons/index.ctp:19
+#: Template/Lessons/view.ctp:23
+msgid "List Files"
+msgstr "リストファイル"
+
+#: Template/Files/add.ctp:10 Template/Files/edit.ctp:16
+#: Template/Files/index.ctp:19 Template/Files/view.ctp:14
+#: Template/Lessons/add.ctp:9 Template/Lessons/edit.ctp:15
+#: Template/Lessons/view.ctp:17 Template/Users/add.ctp:12
+#: Template/Users/edit.ctp:18 Template/Users/index.ctp:19
+#: Template/Users/view.ctp:16 Template/Vehicules/add.ctp:12
+#: Template/Vehicules/edit.ctp:18 Template/Vehicules/index.ctp:21
+#: Template/Vehicules/view.ctp:16
+msgid "List Lessons"
+msgstr "レッスンを一覧表示する"
+
+#: Template/Files/add.ctp:11 Template/Files/edit.ctp:17
+#: Template/Files/index.ctp:20 Template/Files/view.ctp:15
+#: Template/Lessons/index.ctp:14 Template/Lessons/view.ctp:14;18
+#: Template/Users/add.ctp:13 Template/Users/edit.ctp:19
+#: Template/Users/index.ctp:20 Template/Users/view.ctp:17
+#: Template/Vehicules/add.ctp:13 Template/Vehicules/edit.ctp:19
+#: Template/Vehicules/index.ctp:22 Template/Vehicules/view.ctp:17
+msgid "New Lesson"
+msgstr "新しいレッスン"
+
+#: Template/Files/add.ctp:17
+msgid "Add File"
+msgstr "ファイルを追加"
+
+#: Template/Files/add.ctp:23
+msgid "Upload File"
+msgstr "ファイルをアップロードする"
+
+#: Template/Files/edit.ctp:10 Template/Files/index.ctp:57
+#: Template/Files/view.ctp:72 Template/Lessons/edit.ctp:10
+#: Template/Lessons/index.ctp:58 Template/Lessons/view.ctp:109
+#: Template/Users/edit.ctp:10 Template/Users/index.ctp:55
+#: Template/Users/view.ctp:86;119;152 Template/Vehicules/edit.ctp:10
+#: Template/Vehicules/index.ctp:51 Template/Vehicules/view.ctp:78
+msgid "Delete"
+msgstr "削除"
+
+#: Template/Files/edit.ctp:12 Template/Files/index.ctp:57
+#: Template/Files/view.ctp:11;72 Template/Lessons/edit.ctp:12
+#: Template/Lessons/index.ctp:58 Template/Lessons/view.ctp:16;109
+#: Template/Users/edit.ctp:12 Template/Users/index.ctp:55
+#: Template/Users/view.ctp:11;86;119;152 Template/Vehicules/edit.ctp:12
+#: Template/Vehicules/index.ctp:51 Template/Vehicules/view.ctp:11;78
+msgid "Are you sure you want to delete # {0}?"
+msgstr "＃{0}を削除してもよろしいですか？"
+
+#: Template/Files/edit.ctp:23 Template/Files/view.ctp:10
+msgid "Edit File"
+msgstr "ファイルの編集"
+
+#: Template/Files/edit.ctp:31 Template/Lessons/add.ctp:30
+#: Template/Lessons/edit.ctp:36 Template/Users/add.ctp:30
+#: Template/Users/edit.ctp:36 Template/Vehicules/add.ctp:28
+#: Template/Vehicules/edit.ctp:34
+msgid "Submit"
+msgstr "提出する"
+
+#: Template/Files/index.ctp:17 Template/Files/view.ctp:13
+#: Template/Lessons/add.ctp:13 Template/Lessons/edit.ctp:19
+#: Template/Lessons/index.ctp:20 Template/Lessons/view.ctp:24
+msgid "New File"
+msgstr "新しいファイル"
+
+#: Template/Files/index.ctp:26
+msgid "Files"
+msgstr "ファイル"
+
+#: Template/Files/index.ctp:32
+msgid "Preview"
+msgstr "プレビュー"
+
+#: Template/Files/index.ctp:55 Template/Files/view.ctp:70
+#: Template/Lessons/view.ctp:107 Template/Users/index.ctp:53
+#: Template/Users/view.ctp:84;117;150 Template/Vehicules/index.ctp:49
+#: Template/Vehicules/view.ctp:76
+msgid "View"
+msgstr "ビュー"
+
+#: Template/Files/index.ctp:56 Template/Files/view.ctp:71
+#: Template/Lessons/index.ctp:57 Template/Lessons/view.ctp:108
+#: Template/Users/index.ctp:54 Template/Users/view.ctp:85;118;151
+#: Template/Vehicules/index.ctp:50 Template/Vehicules/view.ctp:77
+msgid "Edit"
+msgstr "編集"
+
+#: Template/Files/index.ctp:65 Template/Lessons/index.ctp:71
+#: Template/Users/index.ctp:63 Template/Vehicules/index.ctp:59
+msgid "first"
+msgstr "最初"
+
+#: Template/Files/index.ctp:66 Template/Lessons/index.ctp:72
+#: Template/Users/index.ctp:64 Template/Vehicules/index.ctp:60
+msgid "previous"
+msgstr "前"
+
+#: Template/Files/index.ctp:68 Template/Lessons/index.ctp:74
+#: Template/Users/index.ctp:66 Template/Vehicules/index.ctp:62
+msgid "next"
+msgstr "次"
+
+#: Template/Files/index.ctp:69 Template/Lessons/index.ctp:75
+#: Template/Users/index.ctp:67 Template/Vehicules/index.ctp:63
+msgid "last"
+msgstr "最終"
+
+#: Template/Files/index.ctp:71 Template/Lessons/index.ctp:77
+#: Template/Users/index.ctp:69 Template/Vehicules/index.ctp:65
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+
+#: Template/Files/view.ctp:11
+msgid "Delete File"
+msgstr "ファイルを削除する"
+
+#: Template/Files/view.ctp:22
+msgid "Name"
+msgstr "名"
+
+#: Template/Files/view.ctp:26
+msgid "Path"
+msgstr "パス"
+
+#: Template/Files/view.ctp:30;51 Template/Lessons/view.ctp:88
+#: Template/Users/view.ctp:46;63;98;131 Template/Vehicules/view.ctp:40;57
+msgid "Id"
+msgstr "Id"
+
+#: Template/Files/view.ctp:34;56 Template/Lessons/view.ctp:51;92
+#: Template/Users/view.ctp:50;68;103;135 Template/Vehicules/view.ctp:44;62
+msgid "Created"
+msgstr "作成した"
+
+#: Template/Files/view.ctp:38;57 Template/Lessons/view.ctp:55;93
+#: Template/Users/view.ctp:54;69;104;136 Template/Vehicules/view.ctp:48;63
+msgid "Modified"
+msgstr "変更された"
+
+#: Template/Files/view.ctp:42
+msgid "Status"
+msgstr "状態"
+
+#: Template/Files/view.ctp:43
+msgid "Yes"
+msgstr "はい"
+
+#: Template/Files/view.ctp:43
+msgid "No"
+msgstr "いいえ"
+
+#: Template/Files/view.ctp:47 Template/Users/view.ctp:94
+#: Template/Vehicules/view.ctp:53
+msgid "Related Lessons"
+msgstr "関連レッスン"
+
+#: Template/Files/view.ctp:52 Template/Lessons/view.ctp:94
+#: Template/Users/view.ctp:70;99;137 Template/Vehicules/view.ctp:58
+msgid "User Id"
+msgstr "User Id"
+
+#: Template/Files/view.ctp:53 Template/Lessons/view.ctp:43
+#: Template/Users/view.ctp:100 Template/Vehicules/view.ctp:59
+msgid "Title"
+msgstr "タイトル"
+
+#: Template/Files/view.ctp:54 Template/Lessons/view.ctp:60
+#: Template/Users/view.ctp:101 Template/Vehicules/view.ctp:60
+msgid "Description"
+msgstr "説明"
+
+#: Template/Files/view.ctp:55 Template/Lessons/view.ctp:47
+#: Template/Users/view.ctp:102 Template/Vehicules/view.ctp:61
+msgid "Price"
+msgstr "価格"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "エラー"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "バック"
+
+#: Template/Lessons/add.ctp:10 Template/Lessons/edit.ctp:16
+#: Template/Lessons/index.ctp:16 Template/Lessons/view.ctp:20
+#: Template/Users/add.ctp:9 Template/Users/edit.ctp:15
+#: Template/Users/view.ctp:12 Template/Vehicules/add.ctp:10
+#: Template/Vehicules/edit.ctp:16 Template/Vehicules/index.ctp:18
+#: Template/Vehicules/view.ctp:14
+msgid "List Users"
+msgstr "ユーザーを一覧表示する"
+
+#: Template/Lessons/add.ctp:11 Template/Lessons/edit.ctp:17
+#: Template/Lessons/index.ctp:17 Template/Lessons/view.ctp:21
+#: Template/Users/index.ctp:14 Template/Users/view.ctp:13
+#: Template/Vehicules/add.ctp:11 Template/Vehicules/edit.ctp:17
+#: Template/Vehicules/index.ctp:19 Template/Vehicules/view.ctp:15
+msgid "New User"
+msgstr "新しいユーザー"
+
+#: Template/Lessons/add.ctp:14 Template/Lessons/edit.ctp:20
+#: Template/Lessons/index.ctp:22 Template/Lessons/view.ctp:26
+#: Template/Users/add.ctp:14 Template/Users/edit.ctp:20
+#: Template/Users/index.ctp:22 Template/Users/view.ctp:18
+#: Template/Vehicules/add.ctp:9 Template/Vehicules/edit.ctp:15
+#: Template/Vehicules/view.ctp:12
+msgid "List Vehicules"
+msgstr "ビークルを一覧表示する"
+
+#: Template/Lessons/add.ctp:15 Template/Lessons/edit.ctp:21
+#: Template/Lessons/index.ctp:23 Template/Lessons/view.ctp:27
+#: Template/Users/add.ctp:15 Template/Users/edit.ctp:21
+#: Template/Users/index.ctp:23 Template/Users/view.ctp:19
+#: Template/Vehicules/index.ctp:16 Template/Vehicules/view.ctp:13
+msgid "New Vehicule"
+msgstr "新車"
+
+#: Template/Lessons/add.ctp:21
+msgid "Add Lesson"
+msgstr "レッスンを追加"
+
+#: Template/Lessons/edit.ctp:27 Template/Lessons/view.ctp:15
+msgid "Edit Lesson"
+msgstr "レッスンの編集"
+
+#: Template/Lessons/index.ctp:30
+msgid "Lessons"
+msgstr "レッスン"
+
+#: Template/Lessons/view.ctp:16
+msgid "Delete Lesson"
+msgstr "レッスンの削除"
+
+#: Template/Lessons/view.ctp:35 Template/Vehicules/view.ctp:36
+msgid "User"
+msgstr "ユーザー"
+
+#: Template/Lessons/view.ctp:39 Template/Users/view.ctp:42
+msgid "Role"
+msgstr "役割"
+
+#: Template/Lessons/view.ctp:64
+msgid "_"
+msgstr ""
+
+#: Template/Lessons/view.ctp:84
+msgid "Rented vehicule for the lesson"
+msgstr "レッスンのためのレンタカー"
+
+#: Template/Lessons/view.ctp:89 Template/Users/view.ctp:132
+#: Template/Vehicules/view.ctp:24
+msgid "Make"
+msgstr "メイク"
+
+#: Template/Lessons/view.ctp:90 Template/Users/view.ctp:133
+#: Template/Vehicules/view.ctp:28
+msgid "Model"
+msgstr "モデル"
+
+#: Template/Lessons/view.ctp:91 Template/Users/view.ctp:134
+#: Template/Vehicules/view.ctp:32
+msgid "Plate"
+msgstr "プレート"
+
+#: Template/Users/add.ctp:10 Template/Users/edit.ctp:16
+#: Template/Users/index.ctp:16 Template/Users/view.ctp:14
+msgid "List Customers"
+msgstr "顧客リスト"
+
+#: Template/Users/add.ctp:11 Template/Users/edit.ctp:17
+#: Template/Users/index.ctp:17 Template/Users/view.ctp:15
+msgid "New Customer"
+msgstr "新規顧客"
+
+#: Template/Users/add.ctp:21
+msgid "Add User"
+msgstr "ユーザーを追加する"
+
+#: Template/Users/edit.ctp:27 Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr "ユーザーの編集"
+
+#: Template/Users/index.ctp:28
+msgid "Users"
+msgstr "ユーザー"
+
+#: Template/Users/login.ctp:5
+msgid "Please enter your email and password"
+msgstr "あなたのメールアドレスとパスワードを入力してください"
+
+#: Template/Users/login.ctp:9
+msgid "Login"
+msgstr "ログイン"
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr "ユーザーを削除"
+
+#: Template/Users/view.ctp:26;64
+msgid "First Name"
+msgstr "ファーストネーム"
+
+#: Template/Users/view.ctp:30;65
+msgid "Last Name"
+msgstr "苗字"
+
+#: Template/Users/view.ctp:34;66
+msgid "Email"
+msgstr "Eメール"
+
+#: Template/Users/view.ctp:38
+msgid "Password"
+msgstr "パスワード"
+
+#: Template/Users/view.ctp:59
+msgid "Related Customers"
+msgstr "関連顧客"
+
+#: Template/Users/view.ctp:67
+msgid "Phone"
+msgstr "電話"
+
+#: Template/Users/view.ctp:127
+msgid "Related Vehicules"
+msgstr "関連ビークル"
+
+#: Template/Vehicules/add.ctp:19
+msgid "Add Vehicule"
+msgstr "車両を追加"
+
+#: Template/Vehicules/edit.ctp:25 Template/Vehicules/view.ctp:10
+msgid "Edit Vehicule"
+msgstr "車両の編集"
+
+#: Template/Vehicules/index.ctp:28
+msgid "Vehicules"
+msgstr "ビークルズ"
+
+#: Template/Vehicules/view.ctp:11
+msgid "Delete Vehicule"
+msgstr "車両の削除"
+
+#~ msgid "The requested address {0} was not found on this server."
+#~ msgstr "要求されたアドレス{0}はこのサーバーで見つかりませんでした。"
+
+#~ msgid "An Internal Error Has Occurred"
+#~ msgstr "内部エラーが発生しました"
